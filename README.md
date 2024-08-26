@@ -137,5 +137,5 @@ Here is a list of basic Git commands that every developer should know:
 
 For more information on Git commands and best practices, visit:
 
-1. [](#https://git-scm.com/docs)
-2. [](#https://git-scm.com/book/en/v2)
+- **Offical Git Documentation**: https://git-scm.com/docs
+- **Pro Git Book**: https://git-scm.com/book/en/v2
